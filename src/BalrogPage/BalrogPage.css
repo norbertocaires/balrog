@@ -1,0 +1,25 @@
+.balrog-container {
+  font-family: 'Georgia', serif;
+  padding: 2rem;
+  color: #fdf6e3;
+  background: linear-gradient(160deg, #1a1a1a 0%, #3a0d0d 100%);
+  min-height: 100vh;
+}
+
+.balrog-image {
+  max-width: 100%;
+  height: auto;
+  border: 4px solid #e25822;
+  border-radius: 10px;
+  margin: 2rem 0;
+}
+
+.balrog-story h2 {
+  color: #ff9933;
+  margin-bottom: 1rem;
+}
+
+.balrog-story p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
