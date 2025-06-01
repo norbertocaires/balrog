@@ -5,7 +5,7 @@ import balrogImage from '../assets/balrog.jpg'; // Você precisa adicionar essa 
 const BalrogPage = () => {
   return (
     <div className="balrog-container">
-      <h1>🔥 Balrog - O Terror das Profundezas 🔥</h1>
+      <h1>🔥 Balrog 🔥</h1>
       <img src={balrogImage} alt="Balrog" className="balrog-image" />
       <section className="balrog-story">
         <h2>História</h2>
