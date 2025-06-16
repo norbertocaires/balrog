@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.97795c6c.css",
-    "main.js": "/static/js/main.9829df02.js",
+    "main.js": "/static/js/main.b7a35deb.js",
     "static/media/balrog.jpg": "/static/media/balrog.d2eaeb2db24d6c992b14.jpg",
     "index.html": "/index.html",
     "main.97795c6c.css.map": "/static/css/main.97795c6c.css.map",
-    "main.9829df02.js.map": "/static/js/main.9829df02.js.map"
+    "main.b7a35deb.js.map": "/static/js/main.b7a35deb.js.map"
   },
   "entrypoints": [
     "static/css/main.97795c6c.css",
-    "static/js/main.9829df02.js"
+    "static/js/main.b7a35deb.js"
   ]
 }
